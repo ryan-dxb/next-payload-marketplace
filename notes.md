@@ -1,0 +1,2 @@
+- Email Sending // Not Implementing
+- Verification Email // Not Implementing
